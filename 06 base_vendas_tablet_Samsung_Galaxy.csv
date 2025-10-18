@@ -1,0 +1,245 @@
+﻿Vendas Tablet Samsung Galaxy;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Marketplace, no contexto do comércio eletrónico, é uma plataforma online onde múltiplos vendedores podem oferecer os seus produtos ou serviços a compradores.;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Ano;Mês;Produto;Canal;Regiões;Unidades_Vendidas;Preço_Unitário;Receita;Sazonalidade;Vendas_Adultos;Vendas_50+;Vendas_Jovens;Vendas_Empresas;Loja;Funcionario
+2020;1;Tablet Galaxy S6;Site;Norte;562; 1.754,10 ; 985.804,20 ;;169;56;225;112;Loja B;Bruna
+2020;1;Tablet Galaxy S9 FE;Site;Nordeste;339; 2.799,00 ; 948.861,00 ;;102;34;136;68;Loja B;Lucas
+2020;1;Tablet Galaxy A7;Marketplace;Centro-Oeste;555; 839,90 ; 466.144,50 ;;167;56;222;111;Loja B;Lucas
+2020;1;Tablet Galaxy S9;Marketplace;Sudeste;528; 3.870,50 ; 2.043.624,00 ;;158;53;211;106;Loja C;Jéssica
+2020;2;Tablet Galaxy S6;Marketplace;Sul;457; 1.754,10 ; 801.623,70 ;;137;46;183;91;Loja C;Isabela
+2020;2;Tablet Galaxy S9 FE;Marketplace;Norte;117; 2.799,00 ; 327.483,00 ;;35;12;47;23;Loja A;Rafael
+2020;2;Tablet Galaxy A7;Site;Nordeste;412; 839,90 ; 346.038,80 ;;124;41;165;82;Loja C;Isabela
+2020;2;Tablet Galaxy S9;Site;Centro-Oeste;418; 3.870,50 ; 1.617.869,00 ;;125;42;167;84;Loja C;Jéssica
+2020;3;Tablet Galaxy S6;Marketplace;Sudeste;621; 1.754,10 ; 1.089.296,10 ;;186;62;248;124;Loja C;Paulo
+2020;3;Tablet Galaxy S9 FE;Site;Sul;344; 2.799,00 ; 962.856,00 ;;103;34;138;69;Loja C;Jéssica
+2020;3;Tablet Galaxy A7;Site;Norte;864; 839,90 ; 725.673,60 ;;259;86;346;173;Loja A;Rafael
+2020;3;Tablet Galaxy S9;Site;Nordeste;628; 3.870,50 ; 2.430.674,00 ;;188;63;251;126;Loja C;Jéssica
+2020;4;Tablet Galaxy S6;Site;Centro-Oeste;271; 1.754,10 ; 475.361,10 ;;81;27;108;54;Loja B;Bruna
+2020;4;Tablet Galaxy S9 FE;Site;Sudeste;466; 2.799,00 ; 1.304.334,00 ;;140;47;186;93;Loja B;Lucas
+2020;4;Tablet Galaxy A7;Site;Sul;325; 839,90 ; 272.967,50 ;;98;33;130;65;Loja C;Paulo
+2020;4;Tablet Galaxy S9;Site;Norte;878; 3.870,50 ; 3.398.299,00 ;;263;88;351;176;Loja C;Jéssica
+2020;5;Tablet Galaxy S6;Marketplace;Nordeste;204; 1.754,10 ; 357.836,40 ;;61;20;82;41;Loja B;Lucas
+2020;5;Tablet Galaxy S9 FE;Site;Centro-Oeste;516; 2.799,00 ; 1.444.284,00 ;;155;52;206;103;Loja B;Marina
+2020;5;Tablet Galaxy A7;Site;Sudeste;461; 839,90 ; 387.193,90 ;;138;46;184;92;Loja A;Carlos
+2020;5;Tablet Galaxy S9;Site;Sul;153; 3.870,50 ; 592.186,50 ;;46;15;61;31;Loja B;Marina
+2020;6;Tablet Galaxy S6;Marketplace;Norte;686; 1.754,10 ; 1.203.312,60 ;;206;69;274;137;Loja B;Marina
+2020;6;Tablet Galaxy S9 FE;Marketplace;Nordeste;351; 2.799,00 ; 982.449,00 ;;105;35;140;70;Loja C;Jéssica
+2020;6;Tablet Galaxy A7;Site;Centro-Oeste;230; 839,90 ; 193.177,00 ;;69;23;92;46;Loja B;Bruna
+2020;6;Tablet Galaxy S9;Site;Sudeste;733; 3.870,50 ; 2.837.076,50 ;;220;73;293;147;Loja A;Fernanda
+2020;7;Tablet Galaxy S6;Marketplace;Sul;931; 1.754,10 ; 1.633.067,10 ;;279;93;372;186;Loja B;Lucas
+2020;7;Tablet Galaxy S9 FE;Marketplace;Norte;224; 2.799,00 ; 626.976,00 ;;67;22;90;45;Loja C;Isabela
+2020;7;Tablet Galaxy A7;Site;Nordeste;767; 839,90 ; 644.203,30 ;;230;77;307;153;Loja C;Paulo
+2020;7;Tablet Galaxy S9;Site;Centro-Oeste;587; 3.870,50 ; 2.271.983,50 ;;176;59;235;117;Loja B;Marina
+2020;8;Tablet Galaxy S6;Site;Sudeste;611; 1.754,10 ; 1.071.755,10 ;;183;61;244;122;Loja C;Jéssica
+2020;8;Tablet Galaxy S9 FE;Site;Sul;462; 2.799,00 ; 1.293.138,00 ;;139;46;185;92;Loja A;Carlos
+2020;8;Tablet Galaxy A7;Marketplace;Norte;222; 839,90 ; 186.457,80 ;;67;22;89;44;Loja A;Carlos
+2020;8;Tablet Galaxy S9;Site;Nordeste;640; 3.870,50 ; 2.477.120,00 ;;192;64;256;128;Loja B;Marina
+2020;9;Tablet Galaxy S6;Marketplace;Centro-Oeste;127; 1.754,10 ; 222.770,70 ;;38;13;51;25;Loja B;Lucas
+2020;9;Tablet Galaxy S9 FE;Site;Sudeste;690; 2.799,00 ; 1.931.310,00 ;;207;69;276;138;Loja B;Lucas
+2020;9;Tablet Galaxy A7;Site;Sul;192; 839,90 ; 161.260,80 ;;58;19;77;38;Loja C;Jéssica
+2020;9;Tablet Galaxy S9;Site;Norte;710; 3.870,50 ; 2.748.055,00 ;;213;71;284;142;Loja A;Carlos
+2020;10;Tablet Galaxy S6;Site;Nordeste;874; 1.754,10 ; 1.533.083,40 ;;262;87;350;175;Loja A;Carlos
+2020;10;Tablet Galaxy S9 FE;Site;Centro-Oeste;331; 2.799,00 ; 926.469,00 ;;99;33;132;66;Loja C;Jéssica
+2020;10;Tablet Galaxy A7;Marketplace;Sudeste;157; 839,90 ; 131.864,30 ;;47;16;63;31;Loja A;Carlos
+2020;10;Tablet Galaxy S9;Marketplace;Sul;455; 3.870,50 ; 1.761.077,50 ;;137;46;182;91;Loja B;Marina
+2020;11;Tablet Galaxy S6;Site;Norte;710; 1.754,10 ; 1.245.411,00 ;Black Friday;213;71;284;142;Loja B;Lucas
+2020;11;Tablet Galaxy S9 FE;Site;Nordeste;256; 2.799,00 ; 716.544,00 ;Black Friday;77;26;102;51;Loja B;Bruna
+2020;11;Tablet Galaxy A7;Marketplace;Centro-Oeste;323; 839,90 ; 271.287,70 ;Black Friday;97;32;129;65;Loja A;Rafael
+2020;11;Tablet Galaxy S9;Site;Sudeste;667; 3.870,50 ; 2.581.623,50 ;Black Friday;200;67;267;133;Loja B;Bruna
+2020;12;Tablet Galaxy S6;Marketplace;Sul;287; 1.754,10 ; 503.426,70 ;;86;29;115;57;Loja C;Jéssica
+2020;12;Tablet Galaxy S9 FE;Marketplace;Norte;762; 2.799,00 ; 2.132.838,00 ;;229;76;305;152;Loja C;Isabela
+2020;12;Tablet Galaxy A7;Marketplace;Nordeste;366; 839,90 ; 307.403,40 ;;110;37;146;73;Loja A;Fernanda
+2020;12;Tablet Galaxy S9;Site;Centro-Oeste;610; 3.870,50 ; 2.361.005,00 ;;183;61;244;122;Loja C;Paulo
+2021;1;Tablet Galaxy S6;Site;Sudeste;670; 1.754,10 ; 1.175.247,00 ;;201;67;268;134;Loja C;Paulo
+2021;1;Tablet Galaxy S9 FE;Marketplace;Sul;225; 2.799,00 ; 629.775,00 ;;68;23;90;45;Loja A;Carlos
+2021;1;Tablet Galaxy A7;Site;Norte;703; 839,90 ; 590.449,70 ;;211;70;281;141;Loja B;Marina
+2021;1;Tablet Galaxy S9;Marketplace;Nordeste;771; 3.870,50 ; 2.984.155,50 ;;231;77;308;154;Loja B;Lucas
+2021;2;Tablet Galaxy S6;Marketplace;Centro-Oeste;577; 1.754,10 ; 1.012.115,70 ;;173;58;231;115;Loja B;Bruna
+2021;2;Tablet Galaxy S9 FE;Site;Sudeste;919; 2.799,00 ; 2.572.281,00 ;;276;92;368;184;Loja A;Fernanda
+2021;2;Tablet Galaxy A7;Marketplace;Sul;227; 839,90 ; 190.657,30 ;;68;23;91;45;Loja C;Paulo
+2021;2;Tablet Galaxy S9;Marketplace;Norte;824; 3.870,50 ; 3.189.292,00 ;;247;82;330;165;Loja B;Lucas
+2021;3;Tablet Galaxy S6;Marketplace;Nordeste;339; 1.754,10 ; 594.639,90 ;;102;34;136;68;Loja B;Bruna
+2021;3;Tablet Galaxy S9 FE;Site;Centro-Oeste;105; 2.799,00 ; 293.895,00 ;;32;11;42;21;Loja A;Rafael
+2021;3;Tablet Galaxy A7;Marketplace;Sudeste;811; 839,90 ; 681.158,90 ;;243;81;324;162;Loja B;Lucas
+2021;3;Tablet Galaxy S9;Marketplace;Sul;620; 3.870,50 ; 2.399.710,00 ;;186;62;248;124;Loja A;Fernanda
+2021;4;Tablet Galaxy S6;Site;Norte;899; 1.754,10 ; 1.576.935,90 ;;270;90;360;180;Loja C;Isabela
+2021;4;Tablet Galaxy S9 FE;Site;Nordeste;380; 2.799,00 ; 1.063.620,00 ;;114;38;152;76;Loja A;Carlos
+2021;4;Tablet Galaxy A7;Site;Centro-Oeste;931; 839,90 ; 781.946,90 ;;279;93;372;186;Loja A;Fernanda
+2021;4;Tablet Galaxy S9;Marketplace;Sudeste;692; 3.870,50 ; 2.678.386,00 ;;208;69;277;138;Loja A;Fernanda
+2021;5;Tablet Galaxy S6;Site;Sul;790; 1.754,10 ; 1.385.739,00 ;;237;79;316;158;Loja A;Fernanda
+2021;5;Tablet Galaxy S9 FE;Marketplace;Norte;118; 2.799,00 ; 330.282,00 ;;35;12;47;24;Loja C;Jéssica
+2021;5;Tablet Galaxy A7;Site;Nordeste;601; 839,90 ; 504.779,90 ;;180;60;240;120;Loja C;Jéssica
+2021;5;Tablet Galaxy S9;Marketplace;Centro-Oeste;792; 3.870,50 ; 3.065.436,00 ;;238;79;317;158;Loja B;Marina
+2021;6;Tablet Galaxy S6;Site;Sudeste;870; 1.754,10 ; 1.526.067,00 ;;261;87;348;174;Loja C;Paulo
+2021;6;Tablet Galaxy S9 FE;Marketplace;Sul;320; 2.799,00 ; 895.680,00 ;;96;32;128;64;Loja C;Jéssica
+2021;6;Tablet Galaxy A7;Site;Norte;844; 839,90 ; 708.875,60 ;;253;84;338;169;Loja B;Bruna
+2021;6;Tablet Galaxy S9;Marketplace;Nordeste;243; 3.870,50 ; 940.531,50 ;;73;24;97;49;Loja C;Jéssica
+2021;7;Tablet Galaxy S6;Marketplace;Centro-Oeste;563; 1.754,10 ; 987.558,30 ;;169;56;225;113;Loja A;Fernanda
+2021;7;Tablet Galaxy S9 FE;Marketplace;Sudeste;188; 2.799,00 ; 526.212,00 ;;56;19;75;38;Loja A;Fernanda
+2021;7;Tablet Galaxy A7;Site;Sul;946; 839,90 ; 794.545,40 ;;284;95;378;189;Loja B;Bruna
+2021;7;Tablet Galaxy S9;Site;Norte;636; 3.870,50 ; 2.461.638,00 ;;191;64;254;127;Loja B;Lucas
+2021;8;Tablet Galaxy S6;Marketplace;Nordeste;370; 1.754,10 ; 649.017,00 ;;111;37;148;74;Loja B;Lucas
+2021;8;Tablet Galaxy S9 FE;Site;Centro-Oeste;205; 2.799,00 ; 573.795,00 ;;62;21;82;41;Loja A;Carlos
+2021;8;Tablet Galaxy A7;Site;Sudeste;790; 839,90 ; 663.521,00 ;;237;79;316;158;Loja C;Jéssica
+2021;8;Tablet Galaxy S9;Marketplace;Sul;748; 3.870,50 ; 2.895.134,00 ;;224;75;299;150;Loja A;Rafael
+2021;9;Tablet Galaxy S6;Site;Norte;472; 1.754,10 ; 827.935,20 ;;142;47;189;94;Loja B;Lucas
+2021;9;Tablet Galaxy S9 FE;Marketplace;Nordeste;834; 2.799,00 ; 2.334.366,00 ;;250;83;334;167;Loja C;Jéssica
+2021;9;Tablet Galaxy A7;Site;Centro-Oeste;703; 839,90 ; 590.449,70 ;;211;70;281;141;Loja C;Paulo
+2021;9;Tablet Galaxy S9;Site;Sudeste;965; 3.870,50 ; 3.735.032,50 ;;290;97;386;193;Loja A;Carlos
+2021;10;Tablet Galaxy S6;Marketplace;Sul;830; 1.754,10 ; 1.455.903,00 ;;249;83;332;166;Loja B;Marina
+2021;10;Tablet Galaxy S9 FE;Marketplace;Norte;817; 2.799,00 ; 2.286.783,00 ;;245;82;327;163;Loja A;Rafael
+2021;10;Tablet Galaxy A7;Site;Nordeste;111; 839,90 ; 93.228,90 ;;33;11;44;22;Loja C;Jéssica
+2021;10;Tablet Galaxy S9;Marketplace;Centro-Oeste;338; 3.870,50 ; 1.308.229,00 ;;101;34;135;68;Loja A;Rafael
+2021;11;Tablet Galaxy S6;Site;Sudeste;127; 1.754,10 ; 222.770,70 ;;38;13;51;25;Loja A;Rafael
+2021;11;Tablet Galaxy S9 FE;Marketplace;Sul;696; 2.799,00 ; 1.948.104,00 ;;209;70;278;139;Loja B;Bruna
+2021;11;Tablet Galaxy A7;Marketplace;Norte;856; 839,90 ; 718.954,40 ;;257;86;342;171;Loja B;Marina
+2021;11;Tablet Galaxy S9;Marketplace;Nordeste;612; 3.870,50 ; 2.368.746,00 ;;184;61;245;122;Loja C;Isabela
+2021;12;Tablet Galaxy S6;Site;Centro-Oeste;247; 1.754,10 ; 433.262,70 ;Natal;74;25;99;49;Loja A;Carlos
+2021;12;Tablet Galaxy S9 FE;Marketplace;Sudeste;502; 2.799,00 ; 1.405.098,00 ;Natal;151;50;201;100;Loja A;Rafael
+2021;12;Tablet Galaxy A7;Marketplace;Sul;566; 839,90 ; 475.383,40 ;Natal;170;57;226;113;Loja A;Carlos
+2021;12;Tablet Galaxy S9;Site;Norte;473; 3.870,50 ; 1.830.746,50 ;Natal;142;47;189;95;Loja C;Jéssica
+2022;1;Tablet Galaxy S6;Site;Nordeste;225; 1.754,10 ; 394.672,50 ;Volta às aulas;68;23;90;45;Loja C;Jéssica
+2022;1;Tablet Galaxy S9 FE;Marketplace;Centro-Oeste;644; 2.799,00 ; 1.802.556,00 ;Volta às aulas;193;64;258;129;Loja B;Marina
+2022;1;Tablet Galaxy A7;Marketplace;Sudeste;230; 839,90 ; 193.177,00 ;Volta às aulas;69;23;92;46;Loja B;Bruna
+2022;1;Tablet Galaxy S9;Marketplace;Sul;835; 3.870,50 ; 3.231.867,50 ;Volta às aulas;251;84;334;167;Loja B;Lucas
+2022;2;Tablet Galaxy S6;Site;Norte;290; 1.754,10 ; 508.689,00 ;;87;29;116;58;Loja A;Rafael
+2022;2;Tablet Galaxy S9 FE;Site;Nordeste;810; 2.799,00 ; 2.267.190,00 ;;243;81;324;162;Loja A;Fernanda
+2022;2;Tablet Galaxy A7;Marketplace;Centro-Oeste;512; 839,90 ; 430.028,80 ;;154;51;205;102;Loja B;Lucas
+2022;2;Tablet Galaxy S9;Marketplace;Sudeste;349; 3.870,50 ; 1.350.804,50 ;;105;35;140;70;Loja A;Rafael
+2022;3;Tablet Galaxy S6;Site;Sul;471; 1.754,10 ; 826.181,10 ;;141;47;188;94;Loja B;Marina
+2022;3;Tablet Galaxy S9 FE;Site;Norte;227; 2.799,00 ; 635.373,00 ;;68;23;91;45;Loja C;Isabela
+2022;3;Tablet Galaxy A7;Marketplace;Nordeste;744; 839,90 ; 624.885,60 ;;223;74;298;149;Loja B;Marina
+2022;3;Tablet Galaxy S9;Site;Centro-Oeste;782; 3.870,50 ; 3.026.731,00 ;;235;78;313;156;Loja C;Isabela
+2022;4;Tablet Galaxy S6;Site;Sudeste;840; 1.754,10 ; 1.473.444,00 ;;252;84;336;168;Loja A;Rafael
+2022;4;Tablet Galaxy S9 FE;Marketplace;Sul;911; 2.799,00 ; 2.549.889,00 ;;273;91;364;182;Loja B;Bruna
+2022;4;Tablet Galaxy A7;Marketplace;Norte;893; 839,90 ; 750.030,70 ;;268;89;357;179;Loja A;Fernanda
+2022;4;Tablet Galaxy S9;Marketplace;Nordeste;229; 3.870,50 ; 886.344,50 ;;69;23;92;46;Loja C;Jéssica
+2022;5;Tablet Galaxy S6;Site;Centro-Oeste;309; 1.754,10 ; 542.016,90 ;;93;31;124;62;Loja C;Isabela
+2022;5;Tablet Galaxy S9 FE;Site;Sudeste;418; 2.799,00 ; 1.169.982,00 ;;125;42;167;84;Loja C;Jéssica
+2022;5;Tablet Galaxy A7;Site;Sul;857; 839,90 ; 719.794,30 ;;257;86;343;171;Loja A;Carlos
+2022;5;Tablet Galaxy S9;Marketplace;Norte;890; 3.870,50 ; 3.444.745,00 ;;267;89;356;178;Loja A;Rafael
+2022;6;Tablet Galaxy S6;Marketplace;Nordeste;916; 1.754,10 ; 1.606.755,60 ;;275;92;366;183;Loja A;Carlos
+2022;6;Tablet Galaxy S9 FE;Site;Centro-Oeste;464; 2.799,00 ; 1.298.736,00 ;;139;46;186;93;Loja A;Rafael
+2022;6;Tablet Galaxy A7;Marketplace;Sudeste;477; 839,90 ; 400.632,30 ;;143;48;191;95;Loja C;Paulo
+2022;6;Tablet Galaxy S9;Site;Sul;865; 3.870,50 ; 3.347.982,50 ;;260;87;346;173;Loja C;Jéssica
+2022;7;Tablet Galaxy S6;Marketplace;Norte;326; 1.754,10 ; 571.836,60 ;;98;33;130;65;Loja B;Marina
+2022;7;Tablet Galaxy S9 FE;Marketplace;Nordeste;489; 2.799,00 ; 1.368.711,00 ;;147;49;196;98;Loja B;Lucas
+2022;7;Tablet Galaxy A7;Marketplace;Centro-Oeste;113; 839,90 ; 94.908,70 ;;34;11;45;23;Loja A;Fernanda
+2022;7;Tablet Galaxy S9;Marketplace;Sudeste;685; 3.870,50 ; 2.651.292,50 ;;206;69;274;137;Loja C;Paulo
+2022;8;Tablet Galaxy S6;Site;Sul;974; 1.754,10 ; 1.708.493,40 ;;292;97;390;195;Loja C;Jéssica
+2022;8;Tablet Galaxy S9 FE;Site;Norte;111; 2.799,00 ; 310.689,00 ;;33;11;44;22;Loja C;Paulo
+2022;8;Tablet Galaxy A7;Site;Nordeste;999; 839,90 ; 839.060,10 ;;300;100;400;200;Loja B;Bruna
+2022;8;Tablet Galaxy S9;Site;Centro-Oeste;986; 3.870,50 ; 3.816.313,00 ;;296;99;394;197;Loja B;Lucas
+2022;9;Tablet Galaxy S6;Site;Sudeste;444; 1.754,10 ; 778.820,40 ;;133;44;178;89;Loja C;Jéssica
+2022;9;Tablet Galaxy S9 FE;Marketplace;Sul;102; 2.799,00 ; 285.498,00 ;;31;10;41;20;Loja C;Isabela
+2022;9;Tablet Galaxy A7;Marketplace;Norte;353; 839,90 ; 296.484,70 ;;106;35;141;71;Loja C;Jéssica
+2022;9;Tablet Galaxy S9;Marketplace;Nordeste;890; 3.870,50 ; 3.444.745,00 ;;267;89;356;178;Loja B;Bruna
+2022;10;Tablet Galaxy S6;Marketplace;Centro-Oeste;689; 1.754,10 ; 1.208.574,90 ;;207;69;276;138;Loja C;Jéssica
+2022;10;Tablet Galaxy S9 FE;Marketplace;Sudeste;224; 2.799,00 ; 626.976,00 ;;67;22;90;45;Loja C;Paulo
+2022;10;Tablet Galaxy A7;Site;Sul;278; 839,90 ; 233.492,20 ;;83;28;111;56;Loja A;Carlos
+2022;10;Tablet Galaxy S9;Site;Norte;794; 3.870,50 ; 3.073.177,00 ;;238;79;318;159;Loja A;Fernanda
+2022;11;Tablet Galaxy S6;Marketplace;Nordeste;347; 1.754,10 ; 608.672,70 ;;104;35;139;69;Loja B;Lucas
+2022;11;Tablet Galaxy S9 FE;Marketplace;Centro-Oeste;899; 2.799,00 ; 2.516.301,00 ;;270;90;360;180;Loja C;Paulo
+2022;11;Tablet Galaxy A7;Marketplace;Sudeste;189; 839,90 ; 158.741,10 ;;57;19;76;38;Loja C;Isabela
+2022;11;Tablet Galaxy S9;Site;Sul;946; 3.870,50 ; 3.661.493,00 ;;284;95;378;189;Loja A;Carlos
+2022;12;Tablet Galaxy S6;Marketplace;Norte;467; 1.754,10 ; 819.164,70 ;;140;47;187;93;Loja B;Bruna
+2022;12;Tablet Galaxy S9 FE;Marketplace;Nordeste;694; 2.799,00 ; 1.942.506,00 ;;208;69;278;139;Loja A;Fernanda
+2022;12;Tablet Galaxy A7;Marketplace;Centro-Oeste;783; 839,90 ; 657.641,70 ;;235;78;313;157;Loja A;Fernanda
+2022;12;Tablet Galaxy S9;Site;Sudeste;650; 3.870,50 ; 2.515.825,00 ;;195;65;260;130;Loja A;Carlos
+2023;1;Tablet Galaxy S6;Site;Sul;291; 1.754,10 ; 510.443,10 ;;87;29;116;58;Loja A;Fernanda
+2023;1;Tablet Galaxy S9 FE;Marketplace;Norte;567; 2.799,00 ; 1.587.033,00 ;;170;57;227;113;Loja C;Isabela
+2023;1;Tablet Galaxy A7;Marketplace;Nordeste;220; 839,90 ; 184.778,00 ;;66;22;88;44;Loja C;Jéssica
+2023;1;Tablet Galaxy S9;Marketplace;Centro-Oeste;184; 3.870,50 ; 712.172,00 ;;55;18;74;37;Loja A;Fernanda
+2023;2;Tablet Galaxy S6;Site;Sudeste;156; 1.754,10 ; 273.639,60 ;;47;16;62;31;Loja B;Bruna
+2023;2;Tablet Galaxy S9 FE;Site;Sul;427; 2.799,00 ; 1.195.173,00 ;;128;43;171;85;Loja B;Marina
+2023;2;Tablet Galaxy A7;Site;Norte;363; 839,90 ; 304.883,70 ;;109;36;145;73;Loja B;Lucas
+2023;2;Tablet Galaxy S9;Marketplace;Nordeste;866; 3.870,50 ; 3.351.853,00 ;;260;87;346;173;Loja B;Bruna
+2023;3;Tablet Galaxy S6;Site;Centro-Oeste;704; 1.754,10 ; 1.234.886,40 ;;211;70;282;141;Loja A;Carlos
+2023;3;Tablet Galaxy S9 FE;Site;Sudeste;929; 2.799,00 ; 2.600.271,00 ;;279;93;372;186;Loja C;Isabela
+2023;3;Tablet Galaxy A7;Marketplace;Sul;397; 839,90 ; 333.440,30 ;;119;40;159;79;Loja B;Marina
+2023;3;Tablet Galaxy S9;Site;Norte;440; 3.870,50 ; 1.703.020,00 ;;132;44;176;88;Loja A;Fernanda
+2023;4;Tablet Galaxy S6;Marketplace;Nordeste;646; 1.754,10 ; 1.133.148,60 ;;194;65;258;129;Loja B;Marina
+2023;4;Tablet Galaxy S9 FE;Site;Centro-Oeste;379; 2.799,00 ; 1.060.821,00 ;;114;38;152;76;Loja B;Marina
+2023;4;Tablet Galaxy A7;Site;Sudeste;826; 839,90 ; 693.757,40 ;;248;83;330;165;Loja A;Rafael
+2023;4;Tablet Galaxy S9;Marketplace;Sul;620; 3.870,50 ; 2.399.710,00 ;;186;62;248;124;Loja C;Paulo
+2023;5;Tablet Galaxy S6;Site;Norte;176; 1.754,10 ; 308.721,60 ;;53;18;70;35;Loja C;Isabela
+2023;5;Tablet Galaxy S9 FE;Marketplace;Nordeste;713; 2.799,00 ; 1.995.687,00 ;;214;71;285;143;Loja A;Fernanda
+2023;5;Tablet Galaxy A7;Marketplace;Centro-Oeste;736; 839,90 ; 618.166,40 ;;221;74;294;147;Loja C;Jéssica
+2023;5;Tablet Galaxy S9;Marketplace;Sudeste;788; 3.870,50 ; 3.049.954,00 ;;236;79;315;158;Loja A;Fernanda
+2023;6;Tablet Galaxy S6;Marketplace;Sul;240; 1.754,10 ; 420.984,00 ;;72;24;96;48;Loja A;Fernanda
+2023;6;Tablet Galaxy S9 FE;Marketplace;Norte;897; 2.799,00 ; 2.510.703,00 ;;269;90;359;179;Loja A;Fernanda
+2023;6;Tablet Galaxy A7;Marketplace;Nordeste;861; 839,90 ; 723.153,90 ;;258;86;344;172;Loja C;Paulo
+2023;6;Tablet Galaxy S9;Site;Centro-Oeste;562; 3.870,50 ; 2.175.221,00 ;;169;56;225;112;Loja A;Carlos
+2023;7;Tablet Galaxy S6;Marketplace;Sudeste;611; 1.754,10 ; 1.071.755,10 ;;183;61;244;122;Loja B;Lucas
+2023;7;Tablet Galaxy S9 FE;Marketplace;Sul;957; 2.799,00 ; 2.678.643,00 ;;287;96;383;191;Loja C;Jéssica
+2023;7;Tablet Galaxy A7;Site;Norte;534; 839,90 ; 448.506,60 ;;160;53;214;107;Loja C;Paulo
+2023;7;Tablet Galaxy S9;Marketplace;Nordeste;538; 3.870,50 ; 2.082.329,00 ;;161;54;215;108;Loja C;Jéssica
+2023;8;Tablet Galaxy S6;Site;Centro-Oeste;791; 1.754,10 ; 1.387.493,10 ;;237;79;316;158;Loja C;Isabela
+2023;8;Tablet Galaxy S9 FE;Site;Sudeste;542; 2.799,00 ; 1.517.058,00 ;;163;54;217;108;Loja B;Lucas
+2023;8;Tablet Galaxy A7;Site;Sul;315; 839,90 ; 264.568,50 ;;95;32;126;63;Loja C;Paulo
+2023;8;Tablet Galaxy S9;Site;Norte;188; 3.870,50 ; 727.654,00 ;;56;19;75;38;Loja C;Isabela
+2023;9;Tablet Galaxy S6;Marketplace;Nordeste;107; 1.754,10 ; 187.688,70 ;;32;11;43;21;Loja A;Carlos
+2023;9;Tablet Galaxy S9 FE;Marketplace;Centro-Oeste;867; 2.799,00 ; 2.426.733,00 ;;260;87;347;173;Loja C;Isabela
+2023;9;Tablet Galaxy A7;Site;Sudeste;512; 839,90 ; 430.028,80 ;;154;51;205;102;Loja B;Lucas
+2023;9;Tablet Galaxy S9;Marketplace;Sul;610; 3.870,50 ; 2.361.005,00 ;;183;61;244;122;Loja B;Marina
+2023;10;Tablet Galaxy S6;Marketplace;Norte;278; 1.754,10 ; 487.639,80 ;;83;28;111;56;Loja B;Marina
+2023;10;Tablet Galaxy S9 FE;Site;Nordeste;130; 2.799,00 ; 363.870,00 ;;39;13;52;26;Loja B;Marina
+2023;10;Tablet Galaxy A7;Site;Centro-Oeste;259; 839,90 ; 217.534,10 ;;78;26;104;52;Loja C;Isabela
+2023;10;Tablet Galaxy S9;Site;Sudeste;942; 3.870,50 ; 3.646.011,00 ;;283;94;377;188;Loja C;Isabela
+2023;11;Tablet Galaxy S6;Site;Sul;497; 1.754,10 ; 871.787,70 ;Black Friday;149;50;199;99;Loja B;Bruna
+2023;11;Tablet Galaxy S9 FE;Marketplace;Norte;110; 2.799,00 ; 307.890,00 ;Black Friday;33;11;44;22;Loja B;Marina
+2023;11;Tablet Galaxy A7;Site;Nordeste;235; 839,90 ; 197.376,50 ;Black Friday;71;24;94;47;Loja C;Isabela
+2023;11;Tablet Galaxy S9;Site;Centro-Oeste;893; 3.870,50 ; 3.456.356,50 ;Black Friday;268;89;357;179;Loja B;Lucas
+2023;12;Tablet Galaxy S6;Site;Sudeste;369; 1.754,10 ; 647.262,90 ;;111;37;148;74;Loja A;Carlos
+2023;12;Tablet Galaxy S9 FE;Site;Sul;396; 2.799,00 ; 1.108.404,00 ;;119;40;158;79;Loja B;Bruna
+2023;12;Tablet Galaxy A7;Site;Norte;581; 839,90 ; 487.981,90 ;;174;58;232;116;Loja B;Marina
+2023;12;Tablet Galaxy S9;Site;Nordeste;909; 3.870,50 ; 3.518.284,50 ;;273;91;364;182;Loja A;Rafael
+2024;1;Tablet Galaxy S6;Marketplace;Centro-Oeste;106; 1.754,10 ; 185.934,60 ;;32;11;42;21;Loja A;Fernanda
+2024;1;Tablet Galaxy S9 FE;Site;Sudeste;900; 2.799,00 ; 2.519.100,00 ;;270;90;360;180;Loja C;Jéssica
+2024;1;Tablet Galaxy A7;Marketplace;Sul;898; 839,90 ; 754.230,20 ;;269;90;359;180;Loja C;Isabela
+2024;1;Tablet Galaxy S9;Site;Norte;528; 3.870,50 ; 2.043.624,00 ;;158;53;211;106;Loja A;Carlos
+2024;2;Tablet Galaxy S6;Site;Nordeste;567; 1.754,10 ; 994.574,70 ;;170;57;227;113;Loja A;Carlos
+2024;2;Tablet Galaxy S9 FE;Site;Centro-Oeste;652; 2.799,00 ; 1.824.948,00 ;;196;65;261;130;Loja C;Paulo
+2024;2;Tablet Galaxy A7;Marketplace;Sudeste;996; 839,90 ; 836.540,40 ;;299;100;398;199;Loja B;Bruna
+2024;2;Tablet Galaxy S9;Site;Sul;824; 3.870,50 ; 3.189.292,00 ;;247;82;330;165;Loja A;Fernanda
+2024;3;Tablet Galaxy S6;Site;Norte;903; 1.754,10 ; 1.583.952,30 ;;271;90;361;181;Loja C;Paulo
+2024;3;Tablet Galaxy S9 FE;Site;Nordeste;136; 2.799,00 ; 380.664,00 ;;41;14;54;27;Loja B;Marina
+2024;3;Tablet Galaxy A7;Marketplace;Centro-Oeste;671; 839,90 ; 563.572,90 ;;201;67;268;134;Loja A;Fernanda
+2024;3;Tablet Galaxy S9;Site;Sudeste;261; 3.870,50 ; 1.010.200,50 ;;78;26;104;52;Loja B;Marina
+2024;4;Tablet Galaxy S6;Site;Sul;737; 1.754,10 ; 1.292.771,70 ;Aniversário da loja;221;74;295;147;Loja C;Isabela
+2024;4;Tablet Galaxy S9 FE;Site;Norte;188; 2.799,00 ; 526.212,00 ;Aniversário da loja;56;19;75;38;Loja A;Fernanda
+2024;4;Tablet Galaxy A7;Site;Nordeste;873; 839,90 ; 733.232,70 ;Aniversário da loja;262;87;349;175;Loja B;Lucas
+2024;4;Tablet Galaxy S9;Marketplace;Centro-Oeste;595; 3.870,50 ; 2.302.947,50 ;Aniversário da loja;179;60;238;119;Loja A;Fernanda
+2024;5;Tablet Galaxy S6;Marketplace;Sudeste;884; 1.754,10 ; 1.550.624,40 ;;265;88;354;177;Loja B;Lucas
+2024;5;Tablet Galaxy S9 FE;Marketplace;Sul;978; 2.799,00 ; 2.737.422,00 ;;293;98;391;196;Loja C;Jéssica
+2024;5;Tablet Galaxy A7;Site;Norte;419; 839,90 ; 351.918,10 ;;126;42;168;84;Loja C;Paulo
+2024;5;Tablet Galaxy S9;Marketplace;Nordeste;622; 3.870,50 ; 2.407.451,00 ;;187;62;249;124;Loja A;Rafael
+2024;6;Tablet Galaxy S6;Site;Centro-Oeste;727; 1.754,10 ; 1.275.230,70 ;;218;73;291;145;Loja B;Marina
+2024;6;Tablet Galaxy S9 FE;Site;Sudeste;362; 2.799,00 ; 1.013.238,00 ;;109;36;145;72;Loja A;Rafael
+2024;6;Tablet Galaxy A7;Site;Sul;996; 839,90 ; 836.540,40 ;;299;100;398;199;Loja A;Fernanda
+2024;6;Tablet Galaxy S9;Marketplace;Norte;492; 3.870,50 ; 1.904.286,00 ;;148;49;197;98;Loja B;Marina
+2024;7;Tablet Galaxy S6;Marketplace;Nordeste;485; 1.754,10 ; 850.738,50 ;;146;49;194;97;Loja B;Marina
+2024;7;Tablet Galaxy S9 FE;Marketplace;Centro-Oeste;582; 2.799,00 ; 1.629.018,00 ;;175;58;233;116;Loja B;Bruna
+2024;7;Tablet Galaxy A7;Marketplace;Sudeste;885; 839,90 ; 743.311,50 ;;266;89;354;177;Loja C;Jéssica
+2024;7;Tablet Galaxy S9;Marketplace;Sul;967; 3.870,50 ; 3.742.773,50 ;;290;97;387;193;Loja A;Carlos
+2024;8;Tablet Galaxy S6;Marketplace;Norte;921; 1.754,10 ; 1.615.526,10 ;;276;92;368;184;Loja A;Rafael
+2024;8;Tablet Galaxy S9 FE;Site;Nordeste;598; 2.799,00 ; 1.673.802,00 ;;179;60;239;120;Loja C;Jéssica
+2024;8;Tablet Galaxy A7;Marketplace;Centro-Oeste;568; 839,90 ; 477.063,20 ;;170;57;227;114;Loja B;Bruna
+2024;8;Tablet Galaxy S9;Site;Sudeste;166; 3.870,50 ; 642.503,00 ;;50;17;66;33;Loja C;Isabela
+2024;9;Tablet Galaxy S6;Site;Sul;177; 1.754,10 ; 310.475,70 ;;53;18;71;35;Loja C;Isabela
+2024;9;Tablet Galaxy S9 FE;Site;Norte;745; 2.799,00 ; 2.085.255,00 ;;224;75;298;149;Loja C;Jéssica
+2024;9;Tablet Galaxy A7;Marketplace;Nordeste;575; 839,90 ; 482.942,50 ;;173;58;230;115;Loja A;Rafael
+2024;9;Tablet Galaxy S9;Site;Centro-Oeste;539; 3.870,50 ; 2.086.199,50 ;;162;54;216;108;Loja C;Isabela
+2024;10;Tablet Galaxy S6;Site;Sudeste;450; 1.754,10 ; 789.345,00 ;;135;45;180;90;Loja A;Fernanda
+2024;10;Tablet Galaxy S9 FE;Site;Sul;820; 2.799,00 ; 2.295.180,00 ;;246;82;328;164;Loja A;Carlos
+2024;10;Tablet Galaxy A7;Site;Norte;289; 839,90 ; 242.731,10 ;;87;29;116;58;Loja A;Carlos
+2024;10;Tablet Galaxy S9;Site;Nordeste;884; 3.870,50 ; 3.421.522,00 ;;265;88;354;177;Loja B;Lucas
+2024;11;Tablet Galaxy S6;Marketplace;Centro-Oeste;310; 1.754,10 ; 543.771,00 ;;93;31;124;62;Loja A;Rafael
+2024;11;Tablet Galaxy S9 FE;Site;Sudeste;894; 2.799,00 ; 2.502.306,00 ;;268;89;358;179;Loja A;Rafael
+2024;11;Tablet Galaxy A7;Site;Sul;449; 839,90 ; 377.115,10 ;;135;45;180;90;Loja B;Bruna
+2024;11;Tablet Galaxy S9;Marketplace;Norte;812; 3.870,50 ; 3.142.846,00 ;;244;81;325;162;Loja A;Rafael
+2024;12;Tablet Galaxy S6;Marketplace;Nordeste;356; 1.754,10 ; 624.459,60 ;;107;36;142;71;Loja C;Paulo
+2024;12;Tablet Galaxy S9 FE;Marketplace;Centro-Oeste;959; 2.799,00 ; 2.684.241,00 ;;288;96;384;192;Loja C;Isabela
+2024;12;Tablet Galaxy A7;Site;Sudeste;540; 839,90 ; 453.546,00 ;;162;54;216;108;Loja A;Rafael
+2024;12;Tablet Galaxy S9;Site;Sul;354; 3.870,50 ; 1.370.157,00 ;;106;35;142;71;Loja B;Marina
